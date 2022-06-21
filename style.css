@@ -1,0 +1,12 @@
+.card {
+    align-items: center;
+    padding: 20px;
+    max-width: 300px;
+    margin: 30px;
+    border: thick solid;
+}
+
+.img_filme{
+    max-height: 150px;
+    
+}
